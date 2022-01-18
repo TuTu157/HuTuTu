@@ -2,6 +2,10 @@
 #include<stdlib.h>
 int main()
 {
-	printf("12344");
+	//注释
+	
+
+
+	printf("GXL1111");
 	return 0;
 }
