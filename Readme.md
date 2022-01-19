@@ -102,4 +102,8 @@
 
 # 超链接
 [芒果TV](https://www.mgtv.com "调转到芒果TV")
-[哔哩哔哩](https://www.iqiyi.com "跳转到爱奇艺")
+[爱奇艺](https://www.iqiyi.com "跳转到爱奇艺")
+
+#在文章中插入图片 ，如果图片要在GuiHub上显示，必须是网络图片，不能是本地图片
+![图片1](https://s2.loli.net/2022/01/19/WgRmBlOYi3pQ2Ku.jpg)
+
