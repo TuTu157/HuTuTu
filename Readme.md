@@ -28,6 +28,8 @@
 ~~文本删除线样式~~</br>
 `文本凹显样式`</br>
 
+# 无序列表
+
 * 吃的
 	* KFC
 		* 卤鸭鸭汉堡
@@ -45,6 +47,7 @@
 		* 芋泥波波奶茶
 		* 水果茶
 	* 饮料
+# 有序列表
 
 1. 有序列表1
 	* 无序列表1
@@ -53,7 +56,46 @@
 
 3. 有序列表3
 
+</br></br>
 
 > 第一层引用
 >> 第二层引用
 >>> 第三层引用
+
+
+# 插入代码块
+
+```c
+	#include<stdio.h>
+	int main()
+	{
+		printf("c语言\n");
+		return 0;
+	}
+```
+
+
+```c++
+	#include<iostream>
+	using namespace std;
+	int main(){
+		cout << "c++" << endl;
+	}
+```
+
+
+
+```python
+	import urlib
+	import os
+	def function():
+		print("python语言\n")
+```
+
+
+
+```bash
+	sudo apt-get install pip3
+	echo "数据回显"
+	netstate -apn
+```
